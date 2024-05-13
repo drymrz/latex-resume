@@ -1,4 +1,4 @@
-Copyright (c) <2024> <Adry Mirza>
+Copyright (c) <2024> Adry Mirza
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
